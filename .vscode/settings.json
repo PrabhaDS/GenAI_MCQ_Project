@@ -10,5 +10,6 @@
         "prabha",
         "setuptools",
         "streamlit"
-    ]
+    ],
+    "terminal.integrated.shellIntegration.enabled": false
 }
