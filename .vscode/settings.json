@@ -11,5 +11,5 @@
         "setuptools",
         "streamlit"
     ],
-    "terminal.integrated.shellIntegration.enabled": false
+    "terminal.integrated.shellIntegration.enabled": true
 }
